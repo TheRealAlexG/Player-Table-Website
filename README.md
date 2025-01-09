@@ -62,4 +62,4 @@ Ensure the backend server built with **Java 17 and Spring Boot** is running befo
    npm run dev
    ```
 3. Press `H` in the terminal to view available options, such as restarting the server, stopping the server, and opening the app in the browser.
-## Developed by Alex Man.
+## Developed by TheRealAlexG.
